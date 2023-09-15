@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 99.29 152.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#GradientFill_2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#GradientFill_4);
+      }
+
+      .cls-3 {
+        fill: url(#GradientFill_4-2);
+      }
+
+      .cls-4 {
+        fill: url(#GradientFill_3);
+      }
+    </style>
+    <linearGradient id="GradientFill_2" data-name="GradientFill 2" x1="59.65" y1="37.51" x2="18.46" y2="79.16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c0d1c" stop-opacity="0"/>
+      <stop offset=".19" stop-color="#0c0d1c" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#e6ad2e"/>
+    </linearGradient>
+    <linearGradient id="GradientFill_3" data-name="GradientFill 3" x1="39.64" y1="115.36" x2="80.83" y2="73.71" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c0d1c" stop-opacity="0"/>
+      <stop offset=".29" stop-color="#0c0d1c" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#ecb02e"/>
+    </linearGradient>
+    <linearGradient id="GradientFill_4" data-name="GradientFill 4" x1="35.31" y1="163.18" x2="35.31" y2="64.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#50b1b1"/>
+      <stop offset=".43" stop-color="#99b47a"/>
+      <stop offset="1" stop-color="#f7b935"/>
+    </linearGradient>
+    <linearGradient id="GradientFill_4-2" data-name="GradientFill 4" x1="20.76" y1="46.03" x2="96.21" y2="46.03" xlink:href="#GradientFill_4"/>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <path class="cls-1" d="m12.52,78.85l9.72,7.01,48.38-34.91V18.86L12.52,60.79c-5.58,4.03-5.58,14.04,0,18.07Z"/>
+    <path class="cls-4" d="m86.77,74.02l-9.72-7.01-48.38,34.91v32.1l58.11-41.92c5.58-4.03,5.58-14.04,0-18.07Z"/>
+    <path class="cls-2" d="m12.49,78.84c-5.55-4.03-5.55-14,0-18.03l-1.58,1.14c-6.94,5.01-10.92,13.61-10.92,23.63v.59c0,10.02,3.97,18.62,10.92,23.63l59.71,43.08v-32.1L12.49,78.84Z"/>
+    <path class="cls-3" d="m86.79,74.04c5.55,4.03,5.55,14,0,18.03l1.58-1.14c6.94-5.01,10.91-13.61,10.91-23.63v-.59c0-10.02-3.97-18.62-10.91-23.63L28.66,0v32.1l58.13,41.94Z"/>
+  </g>
+</svg>
