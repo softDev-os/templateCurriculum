@@ -14,6 +14,6 @@ This is a simple and customizable template for creating your personal resume web
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/softDev-os/template-page-curriculum.git
+   git clone https://github.com/softDev-os/templateCurriculum.git
    ```
 
